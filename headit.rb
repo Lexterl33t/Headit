@@ -9,7 +9,7 @@ class Headit
 
 	def initialize(uri, useragent)
 		@link = uri
-		@NewUserAgent = useragent
+		@newuser = useragent
 
 	end
 
